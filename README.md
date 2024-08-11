@@ -4,7 +4,7 @@ SETUP PROJECT
 3. run 'npm install'
 4. run 'php artisan migrate'
 5. run 'php artisan db:seed'
-6. npm 'run build'
+6. run 'npm run build'
 
 email : test@example.com
 password: password
